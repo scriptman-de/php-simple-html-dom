@@ -1,0 +1,24 @@
+{
+    "name": "scriptman-de/php-simple-html-dom-parser",
+    "description": "\"Composer adaptation of: A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way! Require PHP 5+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ScriptmanDe\\PhpSimpleHtmlDomParser\\": "src/"
+        }
+    },
+    "authors": [
+        {   
+            "name": "S.C. Chen",
+            "homepage": "http://sourceforge.net/projects/simplehtmldom/"
+        },
+        {
+            "name": "Martin Aulenbach",
+            "email": "info@scriptman.de",
+            "homepage": "https://github.com/scriptman-de"
+        }   
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
