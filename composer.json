@@ -20,5 +20,10 @@
         }   
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "scripts": {
+        "test": "phpunit --bootstrap ./tests/bootstrap.php HtmlDomParserTest"
+    }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace simplehtmldom_1_9_1;
+namespace simplehtmldom;
 
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/
